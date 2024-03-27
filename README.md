@@ -13,6 +13,8 @@ This project aims to provide an display of such ancestry for a given set of hapl
 - **Dropdown of haplogroups**
 - **A tree image with ancestry**
 
+## To run
+change the path for aadr_data and tree with the data files provided, AADR_test and chrY_hGrpTree_isogg2016.tsv respectively
 
 ## Technologies Used
 
