@@ -14,7 +14,8 @@ This project aims to provide an display of such ancestry for a given set of hapl
 - **A tree image with ancestry**
 
 ## To run
-Use the Annotation excel file to run the basic.py scriot to filter the data.
+Use the Annotation excel file to run the basic.py script to filter the data.
+
 Change the path in the interface.R script for aadr_data, tree and image with the data files provided, AADR_test, chrY_hGrpTree_isogg2016.tsv, image.png respectively
 
 ## Technologies Used
