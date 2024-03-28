@@ -14,11 +14,12 @@ This project aims to provide an display of such ancestry for a given set of hapl
 - **A tree image with ancestry**
 
 ## To run
-change the path in the interface.R script for aadr_data, tree and image with the data files provided, AADR_test, chrY_hGrpTree_isogg2016.tsv, image.png respectively
+Use the Annotation excel file to run the basic.py scriot to filter the data.
+Change the path in the interface.R script for aadr_data, tree and image with the data files provided, AADR_test, chrY_hGrpTree_isogg2016.tsv, image.png respectively
 
 ## Technologies Used
 
-A python script was written to filter the AADR dataset for haplogroups, date and origins.
+A python script was written to filter the AADR dataset for haplogroups, date (mean) and origins.
 A R shiny script was written to run the application
 
 
